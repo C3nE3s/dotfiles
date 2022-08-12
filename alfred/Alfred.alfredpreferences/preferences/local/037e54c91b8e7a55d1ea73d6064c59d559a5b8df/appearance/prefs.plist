@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentthemeuid</key>
+	<string>theme.bundled.osxdark</string>
+	<key>darkthemeuid</key>
+	<string>theme.fileimport.52FF4CE5-39B9-4CD4-B75D-9C614C9455E3</string>
+	<key>lightthemeuid</key>
+	<string>theme.custom.69FC191B-0A1C-48C7-A4D0-05CC7045ED65</string>
+</dict>
+</plist>

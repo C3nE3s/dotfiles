@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 7,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#646566BE",
+        "font" : "XD Bold",
+        "color" : "#FFFFFFCC"
+      },
+      "shortcut" : {
+        "size" : 15,
+        "colorSelected" : "#FFFFFF9E",
+        "font" : "PragmataPro",
+        "color" : "#FFFFFF7E"
+      },
+      "backgroundSelected" : "#F8FFFFE4",
+      "text" : {
+        "size" : 23,
+        "colorSelected" : "#626264FF",
+        "font" : "PragmataPro",
+        "color" : "#F8FCFFFF"
+      },
+      "iconPaddingHorizontal" : 6,
+      "roundness" : 0,
+      "paddingVertical" : 5,
+      "iconSize" : 44
+    },
+    "search" : {
+      "backgroundSelected" : "#00000055",
+      "paddingHorizontal" : 8,
+      "spacing" : 5,
+      "text" : {
+        "size" : 48,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Berkeley Mono Variable",
+        "color" : "#F8FCFFFE"
+      },
+      "background" : "#FFFFFF00",
+      "roundness" : 0,
+      "paddingVertical" : 0
+    },
+    "window" : {
+      "color" : "#0571597F",
+      "paddingHorizontal" : 0,
+      "width" : 685,
+      "borderPadding" : 0,
+      "borderColor" : "#FFFFFFFF",
+      "blur" : 0,
+      "roundness" : 3,
+      "paddingVertical" : 0
+    },
+    "visualEffectMode" : 1,
+    "separator" : {
+      "color" : "#CD00FFFF",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#00000033",
+      "thickness" : 3
+    },
+    "name" : "C3N Light"
+  }
+}

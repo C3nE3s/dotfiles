@@ -1,0 +1,181 @@
+{
+  "editor.lineHeight" : 1.3999999999999999,
+  "editor.accessibilitySupport" : "off",
+  "editor.tokenColorCustomizations" : {
+    "[poimandres]" : {
+      "textMateRules" : [
+        {
+          "scope" : [
+            "entity.name.type",
+            "entity.name.type.interface"
+          ],
+          "settings" : {
+            "fontStyle" : "underline",
+            "foreground" : "#33a58cf9"
+          }
+        },
+        {
+          "scope" : [
+            "keyword.control.as"
+          ],
+          "settings" : {
+            "fontStyle" : "italic",
+            "foreground" : "#ee77eaa3"
+          }
+        }
+      ]
+    },
+    "[Rosé Pine Dawn]" : {
+      "textMateRules" : [
+        {
+          "scope" : [
+            "comment",
+            "entity.other.attribute-name",
+            "entity.other.inherited-class",
+            "support.function",
+            "variable",
+            "meta.directive.vue"
+          ],
+          "settings" : {
+            "fontStyle" : ""
+          }
+        }
+      ]
+    }
+  },
+  "go.toolsManagement.autoUpdate" : true,
+  "workbench.preferredLightColorTheme" : "Rosé Pine Dawn",
+  "explorer.openEditors.visible" : 0,
+  "customizeUI.font.regular" : "PragmataPro",
+  "editor.cursorBlinking" : "smooth",
+  "editor.acceptSuggestionOnCommitCharacter" : false,
+  "editor.formatOnSave" : true,
+  "terminal.integrated.fontWeightBold" : "400",
+  "terminal.integrated.profiles.osx" : {
+    "zsh" : {
+      "path" : "\/bin\/zsh"
+    }
+  },
+  "terminal.integrated.fontFamily" : "JetBrainsMono Nerd Font",
+  "editor.bracketPairColorization.enabled" : true,
+  "workbench.tree.indent" : 18,
+  "window.titleBarStyle" : "native",
+  "[astro]" : {
+    "editor.defaultFormatter" : "esbenp.prettier-vscode",
+    "editor.formatOnSave" : true
+  },
+  "workbench.colorCustomizations" : {
+    "[Rosé Pine Dawn]" : {
+      "tab.unfocusedActiveBackground" : "#fefefd",
+      "titleBar.inactiveBackground" : "#fefefd",
+      "settings.checkboxBackground" : "#fefefd",
+      "notebook.cellBorderColor" : "#fefefd",
+      "inputValidation.errorBackground" : "#fefefd",
+      "notebook.outputContainerBackgroundColor" : "#fefefd",
+      "terminal.ansiBlack" : "#fefefd",
+      "editorGroupHeader.tabsBackground" : "#fefefd",
+      "notebook.selectedCellBorder" : "#fefefd",
+      "tab.inactiveBackground" : "#fefefd",
+      "quickInput.background" : "#fefefd",
+      "welcomePage.tileBackground" : "#fefefd",
+      "checkbox.background" : "#fefefd",
+      "dropdown.background" : "#fefefd",
+      "breadcrumbPicker.background" : "#fefefd",
+      "editor.background" : "#fefefd",
+      "editorPane.background" : "#fefefd",
+      "editorHoverWidget.background" : "#fefefd",
+      "panel.background" : "#fefefd",
+      "menu.background" : "#fefefd",
+      "editorGutter.background" : "#fefefd",
+      "tab.unfocusedInactiveBackground" : "#fefefd",
+      "activityBar.background" : "#fefefd",
+      "editorSuggestWidget.background" : "#fefefd",
+      "statusBar.background" : "#fefefd",
+      "titleBar.activeBackground" : "#fefefd",
+      "editorWidget.background" : "#fefefd",
+      "statusBar.noFolderBackground" : "#fefefd",
+      "sideBar.background" : "#fefefd",
+      "panelSection.border" : "#fefefd",
+      "settings.dropdownBackground" : "#fefefd",
+      "sideBarSectionHeader.background" : "#fefefd",
+      "notifications.background" : "#fefefd",
+      "sideBar.border" : "#070C1E",
+      "editorGroupHeader.noTabsBackground" : "#fefefd"
+    },
+    "[poimandres]" : {
+      "tab.unfocusedActiveBackground" : "#1c2225",
+      "titleBar.inactiveBackground" : "#1c2225",
+      "settings.checkboxBackground" : "#1c2225",
+      "notebook.cellBorderColor" : "#1c2225",
+      "inputValidation.errorBackground" : "#1c2225",
+      "notebook.outputContainerBackgroundColor" : "#1c2225",
+      "terminal.ansiBlack" : "#1c2225",
+      "editorGroupHeader.tabsBackground" : "#1c2225",
+      "notebook.selectedCellBorder" : "#1c2225",
+      "tab.inactiveBackground" : "#1c2225",
+      "quickInput.background" : "#1c2225",
+      "welcomePage.tileBackground" : "#1c2225",
+      "checkbox.background" : "#1c2225",
+      "dropdown.background" : "#1c2225",
+      "breadcrumbPicker.background" : "#1c2225",
+      "editorUnnecessaryCode.opacity" : "#00000099",
+      "editor.background" : "#1c2225",
+      "editorPane.background" : "#1c2225",
+      "editorHoverWidget.background" : "#1c2225",
+      "panel.background" : "#1c2225",
+      "menu.background" : "#1c2225",
+      "editorGutter.background" : "#1c2225",
+      "tab.unfocusedInactiveBackground" : "#1c2225",
+      "activityBar.background" : "#1c2225",
+      "editorSuggestWidget.background" : "#1c2225",
+      "statusBar.background" : "#1c2225",
+      "titleBar.activeBackground" : "#1c2225",
+      "editorWidget.background" : "#1c2225",
+      "statusBar.noFolderBackground" : "#1c2225",
+      "sideBar.background" : "#1c2225",
+      "panelSection.border" : "#1c2225",
+      "settings.dropdownBackground" : "#1c2225",
+      "sideBarSectionHeader.background" : "#1c2225",
+      "notifications.background" : "#1c2225",
+      "sideBar.border" : "#070C1E",
+      "editorGroupHeader.noTabsBackground" : "#1c2225"
+    }
+  },
+  "diffEditor.ignoreTrimWhitespace" : false,
+  "window.autoDetectColorScheme" : true,
+  "workbench.sideBar.location" : "right",
+  "editor.guides.bracketPairs" : true,
+  "[go]" : {
+    "editor.codeLens" : false
+  },
+  "emmet.triggerExpansionOnTab" : true,
+  "terminal.integrated.fontSize" : 14,
+  "[shellscript]" : {
+    "editor.defaultFormatter" : "foxundermoon.shell-format"
+  },
+  "[typescriptreact]" : {
+    "editor.defaultFormatter" : "esbenp.prettier-vscode"
+  },
+  "customizeUI.activityBar" : "bottom",
+  "typescript.updateImportsOnFileMove.enabled" : "always",
+  "editor.fontFamily" : "Berkeley Mono Variable",
+  "editor.cursorStyle" : "line",
+  "workbench.statusBar.visible" : false,
+  "workbench.productIconTheme" : "icons-carbon",
+  "workbench.preferredDarkColorTheme" : "poimandres",
+  "editor.fontSize" : 14,
+  "editor.renderWhitespace" : "none",
+  "editor.glyphMargin" : false,
+  "editor.tabCompletion" : "on",
+  "breadcrumbs.filePath" : "off",
+  "breadcrumbs.enabled" : false,
+  "editor.fontLigatures" : true,
+  "workbench.colorTheme" : "poimandres",
+  "customizeUI.listRowHeight" : 20,
+  "typescript.preferences.importModuleSpecifier" : "non-relative",
+  "terminal.integrated.lineHeight" : 1.125,
+  "editor.minimap.enabled" : false,
+  "editor.minimap.renderCharacters" : false,
+  "editor.tabSize" : 2,
+  "workbench.iconTheme": "quill-icons-minimal"
+}
